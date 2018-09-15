@@ -12,8 +12,15 @@
 @font-face {
     font-family: 'DBHelvethaica';
     src: url('fonts/DB-Helvethaica-X.ttf');
+<<<<<<< HEAD
     font-weight: italic;
     font-style: italic;
+=======
+
+    font-weight: italic;
+    font-style: italic;
+
+>>>>>>> 22de0b6a1958d97e999bc6c5709f57aab1f545a4
 }
 
 @font-face {
